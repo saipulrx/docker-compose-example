@@ -5,7 +5,7 @@ List example docker compose yang di ambil beberapa dari https://github.com/docke
 * [Flask](https://github.com/docker/awesome-compose/tree/master/flask)
 * [Django](https://github.com/docker/awesome-compose/tree/master/django)
 * [ElasticSearch-LogStash-Kibana](https://github.com/docker/awesome-compose/tree/master/elasticsearch-logstash-kibana)
-* Airflow V2
+* [Airflow V2](https://github.com/saipulrx/docker-compose-example/tree/main/docker)
 * dst
 
 # Getting started
